@@ -1,0 +1,22 @@
+{
+  "name": "beachball-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "change": "beachball change",
+    "checkchange": "beachball check",
+    "release": "beachball publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "beachball": "^2.64.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-org-name/your-repo-name.git"
+  }
+}
