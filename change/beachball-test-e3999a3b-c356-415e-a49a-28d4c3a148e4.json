@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "create skill and hook",
+  "packageName": "beachball-test",
+  "email": "newtonjoaquim12@gmail.com",
+  "dependentChangeType": "patch"
+}
