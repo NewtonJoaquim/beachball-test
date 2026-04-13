@@ -1,0 +1,5 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Run beachball change agent after each commit
+npm run beachball-agent || true
